@@ -1,5 +1,5 @@
 
-# POKER_PY
+# POKER
 
 A poker casino game that operates within a linux terminal created by @saucecan (https://www.github.com/saucecan)
 
@@ -27,7 +27,7 @@ To hold certain cards within the deck, press the number key on your keyboard cor
 Holding: [1]:   [2]:   [3]: 4♠  [4]:   [5]: 4♥
 ```
 
-To confirm my choices, I press enter. Depending on your choices and the cards displayed in the hand, it will prompt you will one of multiple messages:
+To confirm my choices, I press enter. Depending on your choices and the cards displayed in the hand, it will prompt you will one or two of multiple messages:
 ```
 > Full House!
 > Flush!
