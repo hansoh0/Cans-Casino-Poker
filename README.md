@@ -39,4 +39,4 @@ To confirm my choices, I press enter. Depending on your choices and the cards di
 > Two Pair!
 > One Pair!
 ```
-The game will continue until the user presses the delete key, in whih the program will exit.
+The game will continue until the user presses the delete key, at which the program will exit.
