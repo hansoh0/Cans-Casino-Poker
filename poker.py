@@ -86,11 +86,6 @@ class Poker:
         ranks = [card[0] for card in tuped_cards]
         suits = [card[1] for card in tuped_cards]
 
-
-        # check for full house
-        if [ranks.count(rank) for rank in ranks].count(3) == 1 and [ranks.count(rank) for rank in ranks].count(2) == 1:
-            print('> Full House!')
-
         # check for flush
         if len(set(suits)) == 1:
             print('> Flush!')
