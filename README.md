@@ -1,7 +1,7 @@
 
 # POKER
 
-A poker casino game that operates within a linux terminal created by @saucecan (https://www.github.com/saucecan)
+A poker casino game that operates within a linux terminal created by @hansoh0 (https://www.github.com/hansoh0)
 
 
 ## Installation
@@ -39,3 +39,5 @@ To confirm my choices, I press enter. Depending on your choices and the cards di
 > One Pair!
 ```
 The game will continue until the user presses the delete key, at which the program will exit.
+
+** Requires X server to be running & requires a display env var to be set
