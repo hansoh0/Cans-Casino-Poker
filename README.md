@@ -10,7 +10,6 @@ Install requirements with pip
 
 ```
 pip install -r requirements.txt
-
 ```
 ## How to Play
 The user is prompted with a screen similar to the one shown below
