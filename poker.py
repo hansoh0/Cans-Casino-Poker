@@ -1,7 +1,7 @@
 #! /usr/bin/env python3
 
 """
-author: saucecan
+author: han soho
 description: a poker casino game that runs within a linux terminal
 """
 import random, os, signal, termios, sys, tty, time
