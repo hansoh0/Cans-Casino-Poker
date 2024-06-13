@@ -12,6 +12,10 @@ Install requirements with pip
 pip install -r requirements.txt
 ```
 ## How to Play
+Run the program
+```
+hansoho@hansoho.co:~$ python3 poker.py
+```
 The user is prompted with a screen similar to the one shown below
 ```
 > Select cards to hold with the number keys. [DELETE to exit/ENTER to confirm].
